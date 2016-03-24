@@ -100,7 +100,6 @@
         // affiche la bannière ; sinon, l'acceptation est automatique
         if (isSessionFirstVisit()) {
           sessionStart();
-          reject();
           showBanner();
         } else {
           accept();
