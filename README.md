@@ -6,3 +6,5 @@ Ce dispositif utilise le localStorage et le sessionStorage. [Consulter la compat
 
 ## Dernière mise à jour
 2016/03/24 - 11:00
+
+Développement déjà utilisable mais probablement améliorable. N'hésitez pas à soumettre vos idées (Pull requests) ou à faire part des bugs que vous avez recontré (Issues).
